@@ -77,6 +77,9 @@
     width: 100%;
 }
 
-.txt-box:hover{
+/*.txt-box:hover{
     opacity: 0;
+}*/
+.window.active :hover{
+    opacity: -1;
 }
